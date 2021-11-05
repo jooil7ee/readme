@@ -1,2 +1,1 @@
-# readme
-Simple README
+Congratulations! You are connected.
